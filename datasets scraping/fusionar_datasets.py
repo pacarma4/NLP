@@ -12,7 +12,7 @@ archivos_tipo_genres = [
     "genres_dataset_90055_100000.csv",
     "genres_dataset_90056_100000.csv",
     "genres_dataset_180000_190000.csv",
-    # "genres_dataset_XXXXX_XXXXX.csv",  # añade el resto aquí
+    "genres_dataset_130000_170000.csv", 
 ]
 
 # Archivos con estructura: artist, song, lyrics, genres, genre_1, genre_2, genre_3
@@ -25,7 +25,7 @@ archivos_tipo_music = [
     "music_dataset_jose.csv",
     "music_dataset_jose_2.csv",
     "music_dataset_jose_3.csv",
-    # "music_dataset_XXXXX_XXXXX.csv",  # añade el resto aquí
+
 ]
 
 # Carpeta donde están los CSVs (por defecto, la misma carpeta que este script)
